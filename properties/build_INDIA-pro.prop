@@ -5,3 +5,7 @@ ro.product.mod_device=sweetin_in_global
 
 # Device name
 ro.product.marketname=Xiaomi Redmi Note 10 Pro Max 
+
+## Infinity props
+ro.infinity.soc=Snapdragon 732G
+ro.infinity.camera=108MP + 18MP + 5MP + 2MP + 16MP
